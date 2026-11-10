@@ -8,6 +8,6 @@ qwen2.5-coder:32b,25.33,10.11
 deepseek-r1:14b,25.33,10.11
 gemini-3-flash-preview,24.0,23.93
 qwen3:14b,24.0,17.42
-GPT-OSS:20B,24.0,9.68
 gpt-6-luna,24.0,20.46
+GPT-OSS:20B,24.0,9.68
 Human_baseline,21.33,16.59
