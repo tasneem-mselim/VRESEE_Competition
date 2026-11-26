@@ -7,8 +7,8 @@ deepcoder:14b,26.67,19.12
 qwen2.5-coder:32b,25.33,10.11
 deepseek-r1:14b,25.33,10.11
 gemini-3-flash-preview,24.0,23.93
-qwen3:14b,24.0,17.42
+Human2_conv1D,24.0,21.77
 gpt-6-luna,24.0,20.46
+qwen3:14b,24.0,17.42
 GPT-OSS:20B,24.0,9.68
-tasneem-m-selim,24.0,21.77
-Human_baseline,21.33,16.59
+Human1_lstm,21.33,16.59
