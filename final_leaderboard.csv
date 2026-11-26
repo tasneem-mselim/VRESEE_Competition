@@ -1,6 +1,6 @@
 Team,Accuracy,F1-Score
 gemini-3.8-flash,33.33,33.09
-tasneem-m-selim,32.0,30.38
+Human3_BiLstm,32.0,30.38
 qwen3-coder,30.67,26.61
 devstral-small-2:latest,28.0,26.94
 qwen2.5-coder:14b,28.0,26.58
